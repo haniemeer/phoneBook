@@ -1,0 +1,22 @@
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.exe.config
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.exe
+D:\C sharp\tamrin\MyContact\MyContact\bin\Debug\MyContact.pdb
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csprojAssemblyReference.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.Form1.resources
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.exe
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.pdb
+D:\C sharp\tamrin\MyContact\MyContact\obj\Debug\MyContact.AddEdit_form.resources
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\bin\Debug\MyContact.exe.config
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\bin\Debug\MyContact.exe
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\bin\Debug\MyContact.pdb
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.csprojAssemblyReference.cache
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.AddEdit_form.resources
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.Form1.resources
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.Properties.Resources.resources
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.csproj.GenerateResource.cache
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.exe
+C:\Users\Asus\Downloads\MyContact-master\MyContact-master\MyContact\obj\Debug\MyContact.pdb
